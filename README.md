@@ -14,3 +14,4 @@
 5. Run the bot
 <br/>
 Notes - Prefix for the bot command is $
+> bot = commands.Bot(command_prefix='$')
