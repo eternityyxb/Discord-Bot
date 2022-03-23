@@ -12,5 +12,5 @@
 4. Set secret (environment variables) of TOKEN
     - TOKEN is a short phrase (represented as a jumble of letters and numbers) that acts as a “key” to controlling a Discord Bot
 5. Run the bot
-6. <br/>
+<br/>
 Notes - Prefix for the bot command is $
