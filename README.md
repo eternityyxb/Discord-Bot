@@ -14,4 +14,6 @@
 5. Run the bot
 <br/>
 Notes - Prefix for the bot command is $ <br/>
->bot = commands.Bot(command_prefix='$')
+```
+bot = commands.Bot(command_prefix='$')
+```
