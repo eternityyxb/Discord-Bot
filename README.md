@@ -4,7 +4,7 @@
 2. Music - Connect to / Disconnect from voice chat room, resume / stop / pause / skip / remove / shuffle / loop music, display current song and current music queue, search music from YouTube etc., and adjust volume
 3. Ping
 4. Set status of bot
-
+<br/>
 # Instructions:
 1. Download the files
 2. Create discord bot: https://discordpy.readthedocs.io/en/stable/discord.html
