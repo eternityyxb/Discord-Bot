@@ -1,4 +1,4 @@
-# Discord-Bot
+# Simple Discord-Bot
 ## Functionalities:
 1. Get inspiration quotes
 2. Music - Connect to / Disconnect from voice chat room, resume / stop / pause / skip / remove / shuffle / loop music, display current song and current music queue, search music from YouTube etc., and adjust volume
