@@ -13,7 +13,9 @@
     - TOKEN is a short phrase (represented as a jumble of letters and numbers) that acts as a “key” to controlling a Discord Bot
 5. Run the bot
 <br/>
-Notes - Prefix for the bot command is $ <br/>
+Notes - Prefix for the bot command is $ 
+<br/>
+
 ```
 bot = commands.Bot(command_prefix='$')
 ```
