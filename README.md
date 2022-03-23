@@ -11,5 +11,5 @@
 3. Host the bot files on a server such as Replit by uploading the files to it
 4. Set secret (environment variables) of TOKEN
     - TOKEN is a short phrase (represented as a jumble of letters and numbers) that acts as a “key” to controlling a Discord Bot
-5. Run the bot
+5. Run the bot \n
 Notes - Prefix for the bot command is $
