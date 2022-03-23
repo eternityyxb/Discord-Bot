@@ -5,6 +5,7 @@
 3. Ping
 4. Set status of bot
 <br/>
+
 # Instructions:
 1. Download the files
 2. Create discord bot: https://discordpy.readthedocs.io/en/stable/discord.html
